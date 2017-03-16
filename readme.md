@@ -15,9 +15,9 @@ Configuration
 
 At least one Azure storage account must be configured in the global configuration before the plugin can be used in build steps. To add a storage account, go to Manage Jenkins | Configure System | Microsoft Azure Storage Account Configuration and fill out the needed information. 
 
+ 
 
-
-Post-build actions
+Post-build actions 
 ==================
 
 Upload artifacts to Azure
